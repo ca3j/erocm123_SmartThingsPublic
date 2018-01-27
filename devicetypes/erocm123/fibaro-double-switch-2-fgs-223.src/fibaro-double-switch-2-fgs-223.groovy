@@ -37,6 +37,7 @@ definition (name: "Fibaro Double Switch 2 FGS-223", namespace: "erocm123", autho
 
     command "reset"
 
+    fingerprint mfr: "010F", prod: "0203", model: "3000", deviceJoinName: "Fibaro Double Switch 2"
     fingerprint mfr: "010F", prod: "0203", model: "2000", deviceJoinName: "Fibaro Double Switch 2"
     fingerprint mfr: "010F", prod: "0203", model: "1000", deviceJoinName: "Fibaro Double Switch 2"
 
